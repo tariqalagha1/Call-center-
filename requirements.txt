@@ -1,0 +1,26 @@
+# Flask Web Framework
+Flask==2.3.3
+Flask-SocketIO==5.3.6
+Flask-CORS==4.0.0
+
+# AI and NLP Libraries
+groq==0.4.1
+llama-index==0.9.48
+deepgram-sdk==3.2.7
+cartesia==1.0.0
+livekit==0.10.0
+
+# Document Processing
+PyPDF2==3.0.1
+python-docx==0.8.11
+openpyxl==3.1.2
+
+# Arabic Text Processing
+arabic-reshaper==3.0.0
+python-bidi==0.4.2
+
+# Utilities
+python-dotenv==1.0.0
+requests==2.31.0
+numpy==1.24.3
+pandas==2.0.3
